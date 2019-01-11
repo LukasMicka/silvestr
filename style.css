@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+}
+
+.container {
+    background-color: #CAC7F2;
+    height: 500px;
+    border-radius: 200px 200px 200px 200px;
+}
+
+.text {
+    font-family: 'Satisfy', sans-serif;
+    font-size: 1.5em;
+    color: #1A2052;
+    padding: 5em 7em;
+}
+
+.image {
+    position: absolute;
+    left: 800px;
+    bottom: 100px;
+}
